@@ -18,7 +18,7 @@ public class HolaMundo {
 
 		for (int x : array) {
 			System.out.println(x);
-		}
+		}e4te4
 
 		System.out.println("Hola");
 
