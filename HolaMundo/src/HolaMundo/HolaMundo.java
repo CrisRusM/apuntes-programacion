@@ -1,4 +1,4 @@
-package HolaMundo;
+ package HolaMundo;
 
 public class HolaMundo {
 	
@@ -12,7 +12,7 @@ public class HolaMundo {
 		array[3] = 999;
 
 		System.out.println(array[0]);
-		System.out.println(array[1]);
+		System.out.println(array[1]);ppjyjji4ojip4ijo4tijo4t
 		System.out.println(array[2]);
 		System.out.println(array[3]);
 
