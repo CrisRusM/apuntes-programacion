@@ -20,6 +20,8 @@ public class HolaMundo {
 			System.out.println(x);
 		}
 
+		System.out.println("Hola");
+
 
 		System.out.println("\n\n\n");
 		int[] arr = new int[] {123, 456, 789};
